@@ -1,0 +1,1 @@
+var json_ElfosterazoSarriko_8 = {"type":"FeatureCollection","name":"ElfosterazoSarriko_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"101","Ubicación":"Ibarrekolanda","Parada":"Sarriko"},"geometry":{"type":"Point","coordinates":[-2.958025,43.2744156]}}]}
